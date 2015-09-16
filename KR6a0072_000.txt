@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 三歸五戒慈心厭離功德經
+#+DATE: 2015-08-30 19:30:12.791201
+#+PROPERTY: JUAN 0
